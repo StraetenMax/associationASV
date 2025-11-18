@@ -1,7 +1,7 @@
 mjml
     //- Head
     mj-head
-        mj-title News Ecosup Hôtellerie
+        mj-title association Auxiliaire Spécialisé Vétérinaire - One
         mj-raw.
             <meta charset="UTF-8">
             <meta name='color-scheme' content='light'/>
@@ -13,38 +13,16 @@ mjml
         mj-attributes
             mj-all(font-family='Arial, Helvetica, sans-serif')/
         mj-breakpoint(width="480px")
-        mj-style.
-            @media (max-width:480px) {
-                .textfooter {
-                    text-align: center !important;
-                    text-align: -moz-center !important;
-                    text-align: -webkit-center !important;
-                    background-color: #000000 !important;
-                }
-            }
-
     //- Body
     mj-body(background-color='#f5f4f1' width="640px")
         //- content
         block content
         //- bloc header
         block header
-            include ../includes/projet1/_header
-        //- bloc menu l'Experientiel
-        block experientiel
-            include ../includes/projet1/_experientiel
-        //- bloc Menu Ardoise
-        block ardoise
-            include ../includes/projet1/_ardoise
-        //- bloc menu Sur le pouce
-        block pouce
-            include ../includes/projet1/_pouce
-        //- bloc Le produit de la semaine
-        block produit
-            include ../includes/projet1/_produit
-        //- bloc Notre étudiant de la semaine
-        block etudiant
-            include ../includes/projet1/_etudiant
+            include ../includes/_header
+        //- bloc core
+        block core
+            include ../includes/_core
         //- bloc footer
         block footer
-            include ../includes/projet1/_footer
+            include ../includes/_footer
