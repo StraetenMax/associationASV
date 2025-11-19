@@ -27,10 +27,10 @@
     </mj-section>
     <mj-section padding="0" background-color="#098855">
       <mj-column>
-        <mj-image padding="0" fluid-on-mobile="true" width="480px" src="images/supveto01.png"/>
+        <mj-image padding="0" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/dwHDZggp/supveto015.png"/>
       </mj-column>
       <mj-column>
-        <mj-image padding="0" fluid-on-mobile="true" width="480px" src="images/supveto02.png"/>
+        <mj-image padding="0" fluid-on-mobile="true" width="480px" src="https://i.ibb.co/ZRSBjZ6P/supveto025.png"/>
       </mj-column>
     </mj-section>
     <mj-section padding="40px 30px" background-color="#ffffff">
@@ -39,7 +39,7 @@
         <mj-text padding="0" mj-class="T cT"><span style="font-weight:700">Sup-Véto</span> a eu connaissance de l'existence toute récente d'une nouvelle association d'ASV, par des ASV et pour les ASV.</mj-text>
         <mj-text padding="0" mj-class="T cT">Cette association "<span style="font-weight:700">UNASV</span>" <span style="font-style:italic">(Union Nationale des ASV)</span> a pour but de défendre les intérêts des ASV dans le cadre de leur travail, de leur reconnaissance.</mj-text>
         <mj-text padding="0" mj-class="T cT">Notre politique a toujours été de pouvoir vous aider, vous accompagner au travers de votre formation, mais aussi de valoriser nos diplomé.es, votre parcours et votre professionnalisme.</mj-text>
-        <mj-text padding="15px 0" mj-class="T1 cT">C'est pourquoi, nous vous invitons à adhérer à cette association.</mj-text>
+        <mj-text padding="15px 0" mj-class="T1 cT">C'est pourquoi, {{ contact.PRENOM }}, nous vous invitons à adhérer à cette association.</mj-text>
         <mj-text padding="0" mj-class="T cT">Plus nombreux vous serez, plus important sera le poids de cette association, qui permettra éventuellement de faire bouger les lignes, et que le travail que vous effectuez au quotidien soit enfin reconnu réellement considéré et rémunéré, et cela sans discrimination de provenance entre le Gipsa et Sup-Véto.</mj-text>
         <mj-text padding="15px 0" mj-class="T cT">Chacun de vous faites partie d'une communauté engagée, professionnelle et lucide sur la réalité du métier.</mj-text>
         <mj-text padding="0px" mj-class="T cT">Votre participation nous paraît essentielle pour construire une représentation nationale forte, plurielle et réellement représentative de tous les ASV.</mj-text>
@@ -55,7 +55,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#37A943">
       <mj-column>
-        <mj-text padding="0" align="center"><a style="font-size:24px;font-weight:700;line-height:30px;color:#ffffff;text-decoration:none;" href="https://supveto.fr" target="_blank">www.supveto.fr</a></mj-text>
+        <mj-text padding="0" align="center"><a style="font-size:24px;font-weight:700;line-height:30px;color:#ffffff;text-decoration:none;" href="https://supveto.com" target="_blank">www.supveto.com</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px">
