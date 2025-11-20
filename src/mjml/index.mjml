@@ -61,7 +61,7 @@
     <mj-section padding="20px">
       <mj-column width="320px">
         <mj-text padding="0" align="center" font-size="12px" font-weight="400" line-height="16px" color="#4d4d4d"><a style="color:#4d4d4d;font-size:12px;font-weight:400" href="{{ mirror}}">Voir la version en ligne</a>           </mj-text>
-        <mj-text padding="0" align="center" font-size="12px" font-weight="400" line-height="16px" color="#4d4d4d">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#4d4d4d;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="400" line-height="16px" color="#4d4d4d">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#4d4d4d;" href="mailto:contact@supveto.com">contact@supveto.com</a> dans votre carnet d'adresses.</mj-text>
         <mj-text padding="0" align="center" font-size="12px" font-weight="400" line-height="16px"><a style="color:#4d4d4d;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a> </mj-text>
       </mj-column>
     </mj-section>
